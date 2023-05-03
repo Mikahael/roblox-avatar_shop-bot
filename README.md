@@ -9,7 +9,7 @@
 
 # Installation
 
-* install python3.10 - pip downloaded automatically - if you dont have ---> python.org/downloads
+* install python3.10 - pip downloaded automatically - if you dont have ---> https://www.python.org/downloads
 
 * install pyautogui - enter in terminal ---> pip install pyautogui
 
