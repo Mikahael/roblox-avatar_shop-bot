@@ -12,7 +12,8 @@ import pyautogui
 README**
 File created by PCMODDER/DESTINY/AVAROHANA
 All rights reserved to the group above - licensed soon
-Works only for WINDOWS!
+Works only for WINDOWS with FIREFOX!
+Licensed under Mozzila Public License 2.0
 #
 TO USE **
 Fill out day, night, and url
