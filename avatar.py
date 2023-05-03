@@ -82,5 +82,6 @@ while(True):
         #break loop
         break
         
-#To whomsoever this may concern, all rights to PCMODDER/PC231392/Mikahael, as the soon will license state.
+#To whomsoever this may concern, all rights to PCMODDER/PC231392/Mikahael, as the license states.
 #We are not liable to any damages - however there should be none.
+#Licensed under Mozzila Public License 2.0
