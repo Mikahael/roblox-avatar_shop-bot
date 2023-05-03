@@ -1,4 +1,4 @@
-# roblox-avatar-shop-bot
+# Roblox-avatar-shop-bot
 + a simple python bot created to purchase limited ugc items while user is not present.
 
 + for Example, a ugc is released at night, and you have url + time, instead of staying up, simply feed the neccessary info into the script, and run it
@@ -7,7 +7,7 @@
 
 + thanks to ---> ![PCMODDER](https://github.com/Mikahael)
 
-# installation
+# Installation
 
 * install python3.10 - pip downloaded automatically - if you dont have ---> ![Python-Latest](https://www.python.org/downloads/)
 
@@ -15,7 +15,7 @@
 
 * download the script
 
-# usage
+# Usage
 
 * open the file, avatar.py
 
@@ -31,5 +31,5 @@
 
 * run python avatar.py
 
-#to whosoever this may concern, this project does not go against Roblox term and conditions and if so, we are not liable. All rights to PCMODDER/DESTINY/MIKAHAEL as the license states.
+#to whosoever this may concern, this project does not go against Roblox term and conditions and if so, we are not liable. All rights to PCMODDER/DESTINY/MIKAHAEL as the license states ---> ![LICENSE](https://www.mozilla.org/en-US/MPL/2.0/)
 
