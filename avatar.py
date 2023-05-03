@@ -1,5 +1,6 @@
 #D E S T I N Y#4693
 #www.github.com/Mikahael
+#Thanks to God
 #
 import time
 import datetime
@@ -86,3 +87,4 @@ while(True):
 #To whomsoever this may concern, all rights to PCMODDER/PC231392/Mikahael, as the license states.
 #We are not liable to any damages - however there should be none.
 #Licensed under Mozzila Public License 2.0
+#Thanks to God
