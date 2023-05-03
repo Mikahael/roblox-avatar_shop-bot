@@ -5,7 +5,7 @@
 
 + works only with windows(any version), and with FIREFOX browser only!
 
-+ thanks to PCMODDER
++ thanks to ---> ![PCMODDER](https://github.com/Mikahael)
 
 # installation
 
