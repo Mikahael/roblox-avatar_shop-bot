@@ -31,5 +31,7 @@
 
 * run python avatar.py
 
+* thanks to God
+
 #to whosoever this may concern, this project does not go against Roblox term and conditions and if so, we are not liable. All rights to PCMODDER/DESTINY/MIKAHAEL as the license states ---> https://www.mozilla.org/en-US/MPL/2.0/
 
