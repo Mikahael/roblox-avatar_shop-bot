@@ -9,11 +9,11 @@
 
 # installation
 
-~ install python3.10 - pip downloaded automatically - if you dont have --->
+* install python3.10 - pip downloaded automatically - if you dont have --->
 
-~ install pyautogui - enter in terminal ---> pip install pyautogui
+* install pyautogui - enter in terminal ---> pip install pyautogui
 
-~ download the script
+* download the script
 
 # usage
 
@@ -31,6 +31,5 @@
 
 * run python avatar.py
 
-#to whosoever this may concern, this project does not go against Roblox term and conditions and if so, we are not liable.
-#all rights to PCMODDER/DESTINY/MIKAHAEL as the license states.
+#to whosoever this may concern, this project does not go against Roblox term and conditions and if so, we are not liable. All rights to PCMODDER/DESTINY/MIKAHAEL as the license states.
 
