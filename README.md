@@ -1,4 +1,6 @@
 # Roblox-avatar-shop-bot
++ to be upgraded with image recognition - opencv
+
 + a simple python bot created to purchase limited ugc items while user is not present.
 
 + for Example, a ugc is released at night, and you have url + time, instead of staying up, simply feed the neccessary info into the script, and run it
